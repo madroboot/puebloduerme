@@ -1,0 +1,6 @@
+{
+  "name": "Pueblo duerme",
+  "description": "A digital moderator application for a hidden role and social deduction tabletop game. The app manages game setup, role assignment, player status, turn order, night actions, day voting, and victory conditions, designed for a mobile-first experience.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
